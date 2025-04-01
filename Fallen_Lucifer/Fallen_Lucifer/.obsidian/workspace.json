@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "dda0a03d4023e5d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "07bf1812417cb677",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "624a56e4f59917ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memories/ASIR/Gestión de Base de Datos/4709 Subconsultas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4709 Subconsultas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fcf60c0617d8f988",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7203af757f319ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "227f23c7262cd457",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4d1b8f0b200d2e34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5e2c318e957889dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6709b3b94ff1e2c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6699e55e39060211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0b62330d69b9eea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Memories/ASIR/Gestión de Base de Datos/4709 Subconsultas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4709 Subconsultas"
+            }
+          },
+          {
+            "id": "e1e7df7bd18da6c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Memories/ASIR/Gestión de Base de Datos/4709 Subconsultas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4709 Subconsultas"
+            }
+          },
+          {
+            "id": "6758920fbe24637d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8235c70d9e9c3d9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Memories/ASIR/Gestión de Base de Datos/4709 Subconsultas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4709 Subconsultas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "624a56e4f59917ae",
+  "lastOpenFiles": [
+    "Memories/ASIR/Gestión de Base de Datos/4703 DML.md",
+    "Memories/ASIR/Fundamento de Hardware/FH.md",
+    "Memories/ASIR/Gestión de Base de Datos/4709 Subconsultas.md",
+    "Memories/ASIR/Fundamento de Hardware/UNIDAD 1.md",
+    "Memories/ASIR/Gestión de Base de Datos/GBD.md",
+    "Memories/ASIR/Calendario.md",
+    "2025-03-17.md",
+    "Memories/ASIR/Redes/REDES.md",
+    "Memories/ASIR/ASIR.md",
+    "Memories/ASIR/Redes",
+    "Memories/ASIR/Implantacion de Sistema Opeativo/ISO.md",
+    "Memories/ASIR/Implantacion de Sistema Opeativo",
+    "Memories/ASIR/Lenguaje de Marca/LM.md",
+    "Memories/ASIR/Lenguaje de Marca",
+    "Memories/ASIR/Fundamento de Hardware/UNIDAD 4.md",
+    "Memories/ASIR/Gestión de Base de Datos",
+    "Memories/ASIR",
+    "Memories/ASIR/Fundamento de Hardware/UNIDAD 3.md",
+    "Memories/ASIR/Fundamento de Hardware/UNIDAD 2.md",
+    "Memories/ASIR/Fundamento de Hardware",
+    "Fundamento de Hardware.md",
+    "Welcome.md",
+    "create a link.md",
+    "Memories"
+  ]
+}

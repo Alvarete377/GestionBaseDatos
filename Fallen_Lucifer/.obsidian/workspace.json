@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "ef6b1e7324c04f29",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c44c23187ea9936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1e823507660a5bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fallen_Lucifer/Memories/ASIR/Lenguaje de Marca/Programacion en python/Programación en python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programación en python"
+            }
+          },
+          {
+            "id": "439346c839fa3926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Apuntes/4718 Control de acceso a usuarios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4718 Control de acceso a usuarios"
+            }
+          },
+          {
+            "id": "029e57f565341405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Apuntes/4718 Control de acceso a usuarios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4718 Control de acceso a usuarios"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a024c6addd4b448e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2536e725aa905fd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0ebbdcd1ac6b6d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c5a63d5d5c35a4da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9d9c49868d869767",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "006d42dcd08ea06d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4bc1fc5fae454a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24aa94eaeedbf9a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/4709 Subconsultas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4709 Subconsultas"
+            }
+          },
+          {
+            "id": "cce67a6ad8b578cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "3a747d6aef544f15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e8c030dbee6fc38c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "a420931f0946dce0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "439346c839fa3926",
+  "lastOpenFiles": [
+    "Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Ejercicios/18_Control de acceso de usuarios.md",
+    "Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Ejercicios/Tablas Esquema e4712 corregido.md",
+    "Fallen_Lucifer/Memories/ASIR/Lenguaje de Marca/Programacion en python/Federación Andaluza de Baloncesto (FAB).md",
+    "Fallen_Lucifer/Recursos/fab.pdf",
+    "Fallen_Lucifer/Memories/ASIR/Lenguaje de Marca/Programacion en python/Programación en python.md",
+    "Fallen_Lucifer/Memories/ASIR/Lenguaje de Marca/LM.md",
+    "Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Apuntes/4718 Control de acceso a usuarios.md",
+    "Excalidraw/Drawing 2025-03-22 05.19.02.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-27 11.42.59.excalidraw.md",
+    "Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Apuntes/4709 Subconsultas.md",
+    "Untitled.md",
+    "Fallen_Lucifer/Recursos/Pasted image 20250326052224.png",
+    "Fallen_Lucifer/Recursos/Pasted image 20250326105144.png",
+    "Fallen_Lucifer/Recursos/Pasted image 20250326105141.png",
+    "Fallen_Lucifer/Recursos/Pasted image 20250326081047.png",
+    "Fallen_Lucifer/Recursos/Pasted image 20250326080638.png",
+    "Fallen_Lucifer/Memories/ASIR/Fundamento de Hardware/Untitled.md",
+    "Fallen_Lucifer/Recursos/Pasted image 20250326072911.png",
+    "Fallen_Lucifer/Recursos/Concesion_Sobre_Tablas.sql",
+    "Fallen_Lucifer/Recursos/Pasted image 20250326065630.png",
+    "Fallen_Lucifer/Recursos/Pasted image 20250326065411.png",
+    "Fallen_Lucifer/Recursos/Pasted image 20250326065015.png",
+    "Fallen_Lucifer/Recursos/Pasted image 20250326053806.png",
+    "Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Apuntes/4708 Join.md",
+    "Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Apuntes",
+    "Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Ejercicios/12_Conjuntos.md",
+    "Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Ejercicios/09_Subconsultas.md",
+    "Fallen_Lucifer/Memories/ASIR/Fundamento de Hardware/UNIDAD 4.md",
+    "Fallen_Lucifer/Memories/ASIR/Redes/REDES.md",
+    "Fallen_Lucifer/Memories/ASIR/Redes/Teoria/Teórica.md",
+    "Excalidraw",
+    "Fallen_Lucifer/Recursos",
+    "Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/GBD.md",
+    "Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Ejercicios",
+    "Fallen_Lucifer/Memories/ASIR/Fundamento de Hardware/FH.md",
+    "Fallen_Lucifer/Memories/ASIR/Calendario.md",
+    "Fallen_Lucifer/Memories/ASIR/Redes/Practica/Segundo trimestre(PAR).md",
+    "Fallen_Lucifer/Memories/ASIR/Redes/Practica",
+    "Fallen_Lucifer/Memories/ASIR/Redes/Teoria",
+    "Fallen_Lucifer/Memories/ASIR/Redes/Practica/Practica.md",
+    "Teorica.md",
+    "Fallen_Lucifer/Memories/ASIR/ASIR.md",
+    "Fallen_Lucifer/Memories/ASIR/Implantacion de Sistema Opeativo/ISO.md",
+    "Fallen_Lucifer/Memories/ASIR/Lenguaje de Marca/Programacion en python",
+    "Fallen_Lucifer"
+  ]
+}
