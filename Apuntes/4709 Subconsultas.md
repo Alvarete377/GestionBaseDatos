@@ -66,7 +66,7 @@ alto nivel”, “la más externa”, “el padre de”, “la hija de”.
 
 	- Ejemplo: 
 	
-``` 
+```sql
 SELECT nombre, salario, departamento_id 
 FROM empleados 
 WHERE departamento_id = (
@@ -104,7 +104,7 @@ WHERE departamento_id = (
 
 	- Ejemplo: 
 	
-```
+```sql
 CREATE TABLE empleados_altos 
 SELECT nombre, salario, departamento_id 
 FROM empleados 
@@ -128,7 +128,7 @@ Supongamos que tenemos una tabla **`empleados`** y queremos **actualizar los sal
 
 **Objetivo:** Actualizar el salario de los empleados en esos departamentos para que tengan un aumento del 10%.
 
-```
+```sql
 UPDATE empleados e
 SET salario = salario * 1.10
 WHERE departamento_id IN (
@@ -183,7 +183,7 @@ WHERE departamento_id IN (
 
 Por ejemplo:  Queremos devolver los empleados que trabajan en el mismo `BARCO` que `PAU GASOL`. Para ejecutar esta tarea, primero debemos buscar el id del barco donde trabaja `PAU GASOL`.
 
-```
+```sql
 SQL > SELECT BARCO
 	  FROM TRIPULANTES
 	  WHERE apeTri = 'Gasol' and nomTri = 'Pau';
@@ -197,7 +197,7 @@ BARCO |
 
 Luego de saber el id del `barco`, debemos buscar todos los `empleados` que trabajan en el.
 
-```
+```sql
 SQL > SELECT idTri, apeTri, nomTri
 	  FROM TRIPULANTES
 	  WHERE BARCO = 1 
@@ -220,7 +220,7 @@ Salida esperada:
 
 Sin embarco con una subconsulta habríamos dado respuesta con una sola sentencia:
 
-```
+```sql
 SQL > SELECT idTri, apeTri, nomTri
 	  FROM TRIPULANTES
 	  WHERE BARCO = ( SELECT BARCO
@@ -243,7 +243,7 @@ La consulta padre esta estructurada para recibir un solo valor por parte de la c
 
 - Que la subconsulta devuelva una función de totalización sobre la tabla completa (Sin incluir un group by)
 
-```
+```sql
 SQL > select min(barco)
 	  from TRIPULANES
 	  where apeTri = 'Gasol';
@@ -255,7 +255,7 @@ Al incluir una función de totalización sin una clausula group by, estaremos ob
 
 - Incluir una restricción explicita para evitarlo en la subconsulta. Utilizando la seudocolumna rownum
 
-```
+```sql
 SQL > SELECT min(BARCO)
 	  FROM TRIPULANTES
 	  WHERE apeTri = 'Gasol' AND rownum > 2;
@@ -268,7 +268,7 @@ SQL > SELECT min(BARCO)
 En una clausula `where` de una consulta pueden aparecer mas de una subconsulta: 
 
 
-```
+```sql
 SQL > SELECT idTri, apeTri, nomTri
 	  FROM TRIPULANTES
 	  WHERE barco = (
@@ -293,7 +293,7 @@ SQL > SELECT idTri, apeTri, nomTri
 
 En el ejemplo anterior si eliminamos `AND nomTri = 'Pau')` , la subconsulta nos podría devolver mas de un valor, ya que pueden haber mas de un tripulante con apellido "Gasol". Esto devolvería un error, ya que la consulta padre no esta estructurada para recibir mas de un valor (Como hemos explicado antes)
 
-```
+```sql
 SQL > SELECT idTri, apeTri, nomTri
 	  FROM TRIPULANTES
 	  WHERE BARCO = ( SELECT BARCO
@@ -306,7 +306,7 @@ SQL > SELECT idTri, apeTri, nomTri
 
 > La solución real a este problema, es la estructuración de la consulta padre de forma adecuada
 
-```
+```sql
 SQL > SELECT BARCO, apeTri, nomTri
 	  FROM TRIPULANTES
 	  WHERE BARCO IN (SELECT BARCO
@@ -324,7 +324,7 @@ SQL > SELECT BARCO, apeTri, nomTri
 
 Las subconsultas anteriores comparan cada valor del padre con uno (single-row) o varios (multi-row) de la hija. Pero con las subconsultas multi-columna podemos comparar varias columnas a la vez.
 
-```
+```sql
 SQL > SELECT idTri
 	  FROM TRIPULANTES
 	  WHERE (nomTri, apeTri) IN
