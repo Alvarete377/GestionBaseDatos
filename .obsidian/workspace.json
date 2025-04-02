@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "dda0a03d4023e5d2",
+    "id": "acdbc3051bbfd7a7",
     "type": "split",
     "children": [
       {
-        "id": "07bf1812417cb677",
+        "id": "be67358779f4ddd0",
         "type": "tabs",
         "children": [
           {
-            "id": "624a56e4f59917ae",
+            "id": "ba239821e339459b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Apuntes/4709 Subconsultas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4709 Subconsultas"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fcf60c0617d8f988",
+    "id": "5e51a6324f1a9de5",
     "type": "split",
     "children": [
       {
-        "id": "c7203af757f319ab",
+        "id": "647d5cbcacaef577",
         "type": "tabs",
         "children": [
           {
-            "id": "227f23c7262cd457",
+            "id": "ea45878074370f55",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "4d1b8f0b200d2e34",
+            "id": "a249c4c29fcaa2b5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "5e2c318e957889dc",
+            "id": "4cb3a074c591f77b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "6709b3b94ff1e2c0",
+    "id": "4d1f85e93d917fa8",
     "type": "split",
     "children": [
       {
-        "id": "6699e55e39060211",
+        "id": "11723dbc12265ad4",
         "type": "tabs",
         "children": [
           {
-            "id": "e0b62330d69b9eea",
+            "id": "4a5024f42d456d27",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memories/ASIR/Gestión de Base de Datos/4709 Subconsultas.md",
+                "file": "Apuntes/Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Apuntes/4709 Subconsultas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,12 +108,12 @@
             }
           },
           {
-            "id": "e1e7df7bd18da6c7",
+            "id": "6ba81194c934c290",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memories/ASIR/Gestión de Base de Datos/4709 Subconsultas.md",
+                "file": "Apuntes/Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Apuntes/4709 Subconsultas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -118,7 +122,7 @@
             }
           },
           {
-            "id": "6758920fbe24637d",
+            "id": "55591257b08c7bb7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +137,12 @@
             }
           },
           {
-            "id": "8235c70d9e9c3d9b",
+            "id": "841609c886e4807c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memories/ASIR/Gestión de Base de Datos/4709 Subconsultas.md",
+                "file": "Apuntes/Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Apuntes/4709 Subconsultas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -164,36 +168,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "624a56e4f59917ae",
+  "active": "ba239821e339459b",
   "lastOpenFiles": [
-    "Memories/ASIR/Redes/Practica/Tercer Trimestre/VLANs VLAN_filtering.md",
-    "Memories/ASIR/Redes/Practica/Practica.md",
-    "Memories/ASIR/Redes/Practica/Tercer Trimestre",
-    "Memories/ASIR/Redes/Practica/Segundo trimestre(PAR).md",
-    "Memories/ASIR/Gestión de Base de Datos/Ejercicios/Untitled.md",
-    "Memories/ASIR/Gestión de Base de Datos/4703 DML.md",
-    "Memories/ASIR/Fundamento de Hardware/FH.md",
-    "Memories/ASIR/Gestión de Base de Datos/4709 Subconsultas.md",
-    "Memories/ASIR/Fundamento de Hardware/UNIDAD 1.md",
-    "Memories/ASIR/Gestión de Base de Datos/GBD.md",
-    "Memories/ASIR/Calendario.md",
-    "2025-03-17.md",
-    "Memories/ASIR/Redes/REDES.md",
-    "Memories/ASIR/ASIR.md",
-    "Memories/ASIR/Redes",
-    "Memories/ASIR/Implantacion de Sistema Opeativo/ISO.md",
-    "Memories/ASIR/Implantacion de Sistema Opeativo",
-    "Memories/ASIR/Lenguaje de Marca/LM.md",
-    "Memories/ASIR/Lenguaje de Marca",
-    "Memories/ASIR/Fundamento de Hardware/UNIDAD 4.md",
-    "Memories/ASIR/Gestión de Base de Datos",
-    "Memories/ASIR",
-    "Memories/ASIR/Fundamento de Hardware/UNIDAD 3.md",
-    "Memories/ASIR/Fundamento de Hardware/UNIDAD 2.md",
-    "Memories/ASIR/Fundamento de Hardware",
-    "Fundamento de Hardware.md",
-    "Welcome.md",
-    "create a link.md",
-    "Memories"
+    "Apuntes/Fallen_Lucifer/Memories/ASIR/Gestión de Base de Datos/Apuntes/4704 Lectura.md"
   ]
 }
