@@ -26,7 +26,7 @@ En este ejemplo la subconsulta `(SELECT AVG(salario) FROM empleados);` calcula e
 	- Dependen de la consulta principal para ejecutarse. Necesitan valores de cada fila de la consulta principal
 	- Hacen referencia a columnas de la consulta padre
 
-```
+```sql
 SELECT e1.nombre, e1.salario 
 FROM empleados e1
 WHERE salario > (SELECT AVG(e2.salario) 
